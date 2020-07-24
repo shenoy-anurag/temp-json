@@ -1,0 +1,9 @@
+{
+  "faq": [
+    {
+      "id": 1,
+      "question": "What are neurons?",
+      "answer": "Neurons (also called neurones or nerve cells) are the fundamental units of the brain and nervous system, the cells responsible for receiving sensory input from the external world, for sending motor commands to our muscles, and for transforming and relaying the electrical signals at every step in between."
+    }
+  ]
+}
