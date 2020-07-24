@@ -4,6 +4,16 @@
       "id": 1,
       "question": "What are neurons?",
       "answer": "Neurons (also called neurones or nerve cells) are the fundamental units of the brain and nervous system, the cells responsible for receiving sensory input from the external world, for sending motor commands to our muscles, and for transforming and relaying the electrical signals at every step in between."
+    },
+    {
+      "id": 2,
+      "question": "What are the components of neurons?",
+      "answer": "A neuron has three main parts: dendrites, an axon, and a cell body or soma (see image below), which can be represented as the branches, roots and trunk of a tree, respectively."
+    },
+    {
+      "id": 3,
+      "question": "What is a brain?",
+      "answer": "The Brain is the mass of nerve tissue in the anterior end of an organism. The brain integrates sensory information and directs motor responses; in higher vertebrates it is also the centre of learning. The human brain weighs approximately 1.4 kg (3 pounds) and is made up of billions of cells called neurons."
     }
   ]
 }
