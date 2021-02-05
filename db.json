@@ -15,10 +15,15 @@
       "question": "What is a brain?",
       "answer": "The Brain is the mass of nerve tissue in the anterior end of an organism. The brain integrates sensory information and directs motor responses; in higher vertebrates it is also the centre of learning. The human brain weighs approximately 1.4 kg (3 pounds) and is made up of billions of cells called neurons."
     },
-     {
+    {
       "id": 4,
       "question": "How are FAQs answered?",
       "answer": "Yes."
+    },
+    {
+      "id": 5,
+      "question": "What are GMOs?",
+      "answer": "A genetically modified organism, or GMO, is an organism that has had its DNA altered or modified in some way through genetic engineering."
     }
   ]
 }
