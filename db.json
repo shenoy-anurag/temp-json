@@ -35,7 +35,7 @@
     {
       "id": 1,
       "topic": "chatbot frontend",
-      "answer": "I'm using the simple 'chat-bubble' library as a frontend to my bot. Find out more about the library here: https://github.com/dmitrizzle/chat-bubble"
+      "answer": "I am using the simple chat-bubble library as a frontend to my bot. Find out more about the library here: https://github.com/dmitrizzle/chat-bubble"
     }
   ]
 }
